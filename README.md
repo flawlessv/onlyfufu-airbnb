@@ -10,7 +10,7 @@ author:17revking
 
 #### 首页
 
-![image-20230228231803546](C:\Users\87160\AppData\Roaming\Typora\typora-user-images\image-20230228231803546.png)
+![image-20230228231803546](./src/assets/img/home.png)
 
 #### entire 页面
 
