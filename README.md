@@ -10,14 +10,14 @@ author:17revking
 
 #### 首页
 
-![image-20230228231803546](Q:\React项目合集(已做)\onlyfufu-airbnb\src\assets\img\home.png)
+![image-20230228231803546](./src//assets//img/home.png)
 
 #### entire 页面
 
-![image-20230228231856919](Q:\React项目合集(已做)\onlyfufu-airbnb\src\assets\img\entire.png)
+![image-20230228231856919](./src//assets//img/entire.png)
 
 #### 详情页面
 
-![image-20230228231931018](Q:\React项目合集(已做)\onlyfufu-airbnb\src\assets\img\details.png)
+![image-20230228231931018](./src//assets//img/details.png)
 
-![image-20230228231951477](Q:\React项目合集(已做)\onlyfufu-airbnb\src\assets\img\details2.png)
+![image-20230228231951477](./src//assets//img/details2.png)
